@@ -1,0 +1,2 @@
+VHOST: localhost
+QUEUE: order.created.notification-service
